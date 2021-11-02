@@ -1,0 +1,10 @@
+#ignore node_modules
+node_modules
+
+#ignore yarn.lock
+yarn.lock
+
+#ignore package.json
+package.json
+
+
